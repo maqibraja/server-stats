@@ -1,3 +1,1 @@
-[# server-stats
-project
-](https://github.com/maqibraja/server-stats)
+https://roadmap.sh/projects/server-stats
